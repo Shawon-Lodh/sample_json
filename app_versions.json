@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "message": "App version is fetched",
+    "data": {
+        "android": {
+            "version": "1.0.15",
+            "forceUpdate": true,
+            "newFeatures": "Minor Upgrades"
+        },
+        "ios": {
+            "version": "1.0.15",
+            "forceUpdate": false,
+            "newFeatures": "Minor Upgrade"
+        }
+    }
+}
